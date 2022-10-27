@@ -7,7 +7,7 @@ O projeto consiste em uma página que permite ao usuário escolher entre 5 sabor
 
 Projeto baseado em um case real, da empresa AmbulnzLCC, para Desenvolvedor FullStack (https://github.com/AmbulnzLLC/fullstack-challenge)
 
-
+### Link Vercel: https://pizzeria-fullstack.vercel.app/
 
 ## 📋 Funcionalidades
 
