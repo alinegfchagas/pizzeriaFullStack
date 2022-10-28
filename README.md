@@ -20,8 +20,8 @@ adicionar item ao carrinho, adicionar ou diminuir quantidades, remover do carrin
 
 * Faça o dowload e extração do projeto;
 * Abra um terminal (Git Bash é o recomendado);
-* Navegue até a pasta do projeto pelo seu terminal;
-* Execute, dentro dela, o comando npm install;
+* Navegue até as pastas do projeto pelo seu terminal;
+* Execute, dentro delas individualmente (dentro da pasta frontend e dentro da pasta backend), o comando npm install;
 * Quando acabar, rode o comando npm run start dentro da pasta Ambulnz-frontend e rode o comando npm run dev dentro da pasta Ambulnz-backend;
 
 
